@@ -1,4 +1,4 @@
-### Movie Reviews Sentiment Analysis | Training ###
+
 """
 Description:
               Sentiment Analysis of Movie Reviews is a project which is based on natural language processing,
